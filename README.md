@@ -28,7 +28,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-faltu9851@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:faltu9851@gmail.com)
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ### Hi 🙋‍♂️,
 ### I'm an ordinary Geek from India :)
@@ -39,7 +39,7 @@
 <br />
 
 
-**I am an Weeb ,🌚**
+**I am a Weeb also 🌚**
 
 **Anine, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 🐈**
 <br />
@@ -69,6 +69,8 @@
 
 
 
+
+
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
 
@@ -79,9 +81,4 @@
 
 > Shahnawaz Alam
 
-⭐ From [Prono69](https://github.com/prono69)
-
-
-
-
-  
+⭐ From [Shahnawaz](https://github.com/prono69)
