@@ -1,4 +1,4 @@
-### Hello World , I'm [Kirito!](https://t.me/kirito6969) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hello World 🎊, I'm [Kirito!](https://t.me/kirito6969) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
@@ -14,11 +14,8 @@
 <a href="https://www.reddit.com/user//">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.facebook.com/hope.matrix">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prono69)
@@ -37,9 +34,9 @@
 <br />
 
 
-**I am an Weeb ,**
+**I am an Weeb ,🌚**
 
-**Anine, Hentai Lover , Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 
+**Anine, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 🐈
 <br />
 
 
@@ -65,7 +62,7 @@
 
 > Shahnawaz Alam
 
- From [Prono69](https://github.com/prono69)
+⭐ From [Prono69](https://github.com/prono69)
 
 
 
