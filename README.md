@@ -1,5 +1,10 @@
 ### Hello World 🎊, I'm [Kirito!](https://t.me/kirito6969) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
+<p align="left">
+<a href="https://www.instagram.com/hope.matrix/">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
 <br/>
 <a href="https://twitter.com/alam1999ddk">
@@ -26,7 +31,7 @@
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### Hi 🙋‍♂️,
-### I'm an ordinary Geek from India :).
+### I'm an ordinary Geek from India :)
 
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/alam1999ddk/)
@@ -36,7 +41,7 @@
 
 **I am an Weeb ,🌚**
 
-**Anine, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 🐈
+**Anine, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 🐈**
 <br />
 
 
@@ -44,16 +49,28 @@
 *************
 <p align="center">
   <i>A good code is like a story, not a puzzle.</i><br/>
-</p>  
+</p> 
+
+### - Python Noob
+
+<p align="left">
+ <a href="https://www.python.org">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
 ### - Blogs 🌱
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+<p>
+<a href="https://alamtd.wordpress.com">
+ <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" />
+</a>
 </p>
 
 
+
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 
 ***********************************
 
