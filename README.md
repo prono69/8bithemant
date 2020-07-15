@@ -28,7 +28,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-faltu9851@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:faltu9851@gmail.com)
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div align="center" width="50">
+<img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!" width="300"/>
+</div>
 
 ### Hi 🙋‍♂️,
 ### I'm an ordinary Geek from India :)
