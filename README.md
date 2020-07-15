@@ -28,8 +28,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-faltu9851@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:faltu9851@gmail.com)
 
-<div align="center" width="50">
-<img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!" width="300"/>
+<div align="center">
+<img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!"/>
 </div>
 
 ### Hi 🙋‍♂️,
