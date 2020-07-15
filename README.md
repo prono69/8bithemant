@@ -22,8 +22,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prono69)
-
 <br />
+
 [![Gmail Badge](https://img.shields.io/badge/-faltu9851@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:faltu9851@gmail.com)
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
